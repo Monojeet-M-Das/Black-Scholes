@@ -16,7 +16,7 @@ S(T) = S(0) * exp[(r - 0.5 * sigma ** 2) * T + sigma sqrt{T} * Z]
 \]
 
 Where:
-- \( S_0 \): Initial stock price  
+- \( S(0) \): Initial stock price  
 - \( E \): Strike price  
 - \( T \): Time to maturity  
 - \( r \): Risk-free rate  
